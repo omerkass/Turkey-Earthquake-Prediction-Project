@@ -1,0 +1,10 @@
+pandas
+numpy
+ydata-profiling
+matplotlib
+seaborn
+statsmodels
+keras
+tensorflow
+scikit-learn
+ipywidgets
